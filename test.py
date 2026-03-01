@@ -10,3 +10,4 @@ def pow2(n):
 
 
 print(func_apply(pow2, [3, 2]))
+print(123)
